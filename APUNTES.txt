@@ -1,0 +1,1 @@
+En app.components.ts eldecorador requiere un argumento y el argumento es un objeto
